@@ -1,0 +1,2500 @@
+
+Start of epo ch 1
+Training loss (for one batch) at step 0: 4.7534
+Seen so far: 100 samples
+Time taken: 11.97s
+
+Start of epo ch 2
+Training loss (for one batch) at step 0: 2.4275
+Seen so far: 100 samples
+Time taken: 11.55s
+
+Start of epo ch 3
+Training loss (for one batch) at step 0: 1.9859
+Seen so far: 100 samples
+Time taken: 11.42s
+
+Start of epo ch 4
+Training loss (for one batch) at step 0: 1.9568
+Seen so far: 100 samples
+Time taken: 10.63s
+
+Start of epo ch 5
+Training loss (for one batch) at step 0: 1.9231
+Seen so far: 100 samples
+Time taken: 10.58s
+
+Start of epo ch 6
+Training loss (for one batch) at step 0: 1.8927
+Seen so far: 100 samples
+Time taken: 10.58s
+
+Start of epo ch 7
+Training loss (for one batch) at step 0: 1.8625
+Seen so far: 100 samples
+Time taken: 9.63s
+
+Start of epo ch 8
+Training loss (for one batch) at step 0: 1.8549
+Seen so far: 100 samples
+Time taken: 8.82s
+
+Start of epo ch 9
+Training loss (for one batch) at step 0: 1.8539
+Seen so far: 100 samples
+Time taken: 8.84s
+
+Start of epo ch 10
+Training loss (for one batch) at step 0: 1.8561
+Seen so far: 100 samples
+Time taken: 9.68s
+
+Start of epo ch 11
+Training loss (for one batch) at step 0: 1.8528
+Seen so far: 100 samples
+Time taken: 10.34s
+
+Start of epo ch 12
+Training loss (for one batch) at step 0: 1.8544
+Seen so far: 100 samples
+Time taken: 10.19s
+
+Start of epo ch 13
+Training loss (for one batch) at step 0: 1.8612
+Seen so far: 100 samples
+Time taken: 10.20s
+
+Start of epo ch 14
+Training loss (for one batch) at step 0: 1.8674
+Seen so far: 100 samples
+Time taken: 10.33s
+
+Start of epo ch 15
+Training loss (for one batch) at step 0: 1.8718
+Seen so far: 100 samples
+Time taken: 10.12s
+
+Start of epo ch 16
+Training loss (for one batch) at step 0: 1.8747
+Seen so far: 100 samples
+Time taken: 10.17s
+
+Start of epo ch 17
+Training loss (for one batch) at step 0: 1.8764
+Seen so far: 100 samples
+Time taken: 10.47s
+
+Start of epo ch 18
+Training loss (for one batch) at step 0: 1.8772
+Seen so far: 100 samples
+Time taken: 9.46s
+
+Start of epo ch 19
+Training loss (for one batch) at step 0: 1.8772
+Seen so far: 100 samples
+Time taken: 9.12s
+
+Start of epo ch 20
+Training loss (for one batch) at step 0: 1.8766
+Seen so far: 100 samples
+Time taken: 9.21s
+
+Start of epo ch 21
+Training loss (for one batch) at step 0: 1.8755
+Seen so far: 100 samples
+Time taken: 9.03s
+
+Start of epo ch 22
+Training loss (for one batch) at step 0: 1.8741
+Seen so far: 100 samples
+Time taken: 8.81s
+
+Start of epo ch 23
+Training loss (for one batch) at step 0: 1.8726
+Seen so far: 100 samples
+Time taken: 8.91s
+
+Start of epo ch 24
+Training loss (for one batch) at step 0: 1.8709
+Seen so far: 100 samples
+Time taken: 9.71s
+
+Start of epo ch 25
+Training loss (for one batch) at step 0: 1.8692
+Seen so far: 100 samples
+Time taken: 10.39s
+
+Start of epo ch 26
+Training loss (for one batch) at step 0: 1.8676
+Seen so far: 100 samples
+Time taken: 9.45s
+
+Start of epo ch 27
+Training loss (for one batch) at step 0: 1.8658
+Seen so far: 100 samples
+Time taken: 9.61s
+
+Start of epo ch 28
+Training loss (for one batch) at step 0: 1.8641
+Seen so far: 100 samples
+Time taken: 9.65s
+
+Start of epo ch 29
+Training loss (for one batch) at step 0: 1.8625
+Seen so far: 100 samples
+Time taken: 8.83s
+
+Start of epo ch 30
+Training loss (for one batch) at step 0: 1.8608
+Seen so far: 100 samples
+Time taken: 9.60s
+
+Start of epo ch 31
+Training loss (for one batch) at step 0: 1.8592
+Seen so far: 100 samples
+Time taken: 9.49s
+
+Start of epo ch 32
+Training loss (for one batch) at step 0: 1.8577
+Seen so far: 100 samples
+Time taken: 9.00s
+
+Start of epo ch 33
+Training loss (for one batch) at step 0: 1.8562
+Seen so far: 100 samples
+Time taken: 8.82s
+
+Start of epo ch 34
+Training loss (for one batch) at step 0: 1.8548
+Seen so far: 100 samples
+Time taken: 8.86s
+
+Start of epo ch 35
+Training loss (for one batch) at step 0: 1.8534
+Seen so far: 100 samples
+Time taken: 8.84s
+
+Start of epo ch 36
+Training loss (for one batch) at step 0: 1.8521
+Seen so far: 100 samples
+Time taken: 8.83s
+
+Start of epo ch 37
+Training loss (for one batch) at step 0: 1.8508
+Seen so far: 100 samples
+Time taken: 9.09s
+
+Start of epo ch 38
+Training loss (for one batch) at step 0: 1.8496
+Seen so far: 100 samples
+Time taken: 8.82s
+
+Start of epo ch 39
+Training loss (for one batch) at step 0: 1.8485
+Seen so far: 100 samples
+Time taken: 8.85s
+
+Start of epo ch 40
+Training loss (for one batch) at step 0: 1.8474
+Seen so far: 100 samples
+Time taken: 9.62s
+
+Start of epo ch 41
+Training loss (for one batch) at step 0: 1.8463
+Seen so far: 100 samples
+Time taken: 9.66s
+
+Start of epo ch 42
+Training loss (for one batch) at step 0: 1.8453
+Seen so far: 100 samples
+Time taken: 8.92s
+
+Start of epo ch 43
+Training loss (for one batch) at step 0: 1.8444
+Seen so far: 100 samples
+Time taken: 9.69s
+
+Start of epo ch 44
+Training loss (for one batch) at step 0: 1.8435
+Seen so far: 100 samples
+Time taken: 10.37s
+
+Start of epo ch 45
+Training loss (for one batch) at step 0: 1.8427
+Seen so far: 100 samples
+Time taken: 11.22s
+
+Start of epo ch 46
+Training loss (for one batch) at step 0: 1.8419
+Seen so far: 100 samples
+Time taken: 12.73s
+
+Start of epo ch 47
+Training loss (for one batch) at step 0: 1.8412
+Seen so far: 100 samples
+Time taken: 14.49s
+
+Start of epo ch 48
+Training loss (for one batch) at step 0: 1.8405
+Seen so far: 100 samples
+Time taken: 12.78s
+
+Start of epo ch 49
+Training loss (for one batch) at step 0: 1.8399
+Seen so far: 100 samples
+Time taken: 12.50s
+
+Start of epo ch 50
+Training loss (for one batch) at step 0: 1.8393
+Seen so far: 100 samples
+Time taken: 12.35s
+
+Start of epo ch 51
+Training loss (for one batch) at step 0: 1.8387
+Seen so far: 100 samples
+Time taken: 12.37s
+
+Start of epo ch 52
+Training loss (for one batch) at step 0: 1.8382
+Seen so far: 100 samples
+Time taken: 12.45s
+
+Start of epo ch 53
+Training loss (for one batch) at step 0: 1.8377
+Seen so far: 100 samples
+Time taken: 12.40s
+
+Start of epo ch 54
+Training loss (for one batch) at step 0: 1.8372
+Seen so far: 100 samples
+Time taken: 12.47s
+
+Start of epo ch 55
+Training loss (for one batch) at step 0: 1.8367
+Seen so far: 100 samples
+Time taken: 12.34s
+
+Start of epo ch 56
+Training loss (for one batch) at step 0: 1.8363
+Seen so far: 100 samples
+Time taken: 12.34s
+
+Start of epo ch 57
+Training loss (for one batch) at step 0: 1.8359
+Seen so far: 100 samples
+Time taken: 12.50s
+
+Start of epo ch 58
+Training loss (for one batch) at step 0: 1.8355
+Seen so far: 100 samples
+Time taken: 12.47s
+
+Start of epo ch 59
+Training loss (for one batch) at step 0: 1.8352
+Seen so far: 100 samples
+Time taken: 12.51s
+
+Start of epo ch 60
+Training loss (for one batch) at step 0: 1.8348
+Seen so far: 100 samples
+Time taken: 12.37s
+
+Start of epo ch 61
+Training loss (for one batch) at step 0: 1.8345
+Seen so far: 100 samples
+Time taken: 12.39s
+
+Start of epo ch 62
+Training loss (for one batch) at step 0: 1.8342
+Seen so far: 100 samples
+Time taken: 12.51s
+
+Start of epo ch 63
+Training loss (for one batch) at step 0: 1.8339
+Seen so far: 100 samples
+Time taken: 12.38s
+
+Start of epo ch 64
+Training loss (for one batch) at step 0: 1.8336
+Seen so far: 100 samples
+Time taken: 12.56s
+
+Start of epo ch 65
+Training loss (for one batch) at step 0: 1.8334
+Seen so far: 100 samples
+Time taken: 12.41s
+
+Start of epo ch 66
+Training loss (for one batch) at step 0: 1.8331
+Seen so far: 100 samples
+Time taken: 12.40s
+
+Start of epo ch 67
+Training loss (for one batch) at step 0: 1.8329
+Seen so far: 100 samples
+Time taken: 12.62s
+
+Start of epo ch 68
+Training loss (for one batch) at step 0: 1.8327
+Seen so far: 100 samples
+Time taken: 12.36s
+
+Start of epo ch 69
+Training loss (for one batch) at step 0: 1.8324
+Seen so far: 100 samples
+Time taken: 12.60s
+
+Start of epo ch 70
+Training loss (for one batch) at step 0: 1.8322
+Seen so far: 100 samples
+Time taken: 12.42s
+
+Start of epo ch 71
+Training loss (for one batch) at step 0: 1.8321
+Seen so far: 100 samples
+Time taken: 12.40s
+
+Start of epo ch 72
+Training loss (for one batch) at step 0: 1.8319
+Seen so far: 100 samples
+Time taken: 12.50s
+
+Start of epo ch 73
+Training loss (for one batch) at step 0: 1.8317
+Seen so far: 100 samples
+Time taken: 11.08s
+
+Start of epo ch 74
+Training loss (for one batch) at step 0: 1.8315
+Seen so far: 100 samples
+Time taken: 13.93s
+
+Start of epo ch 75
+Training loss (for one batch) at step 0: 1.8314
+Seen so far: 100 samples
+Time taken: 13.60s
+
+Start of epo ch 76
+Training loss (for one batch) at step 0: 1.8313
+Seen so far: 100 samples
+Time taken: 12.96s
+
+Start of epo ch 77
+Training loss (for one batch) at step 0: 1.8311
+Seen so far: 100 samples
+Time taken: 13.33s
+
+Start of epo ch 78
+Training loss (for one batch) at step 0: 1.8310
+Seen so far: 100 samples
+Time taken: 12.83s
+
+Start of epo ch 79
+Training loss (for one batch) at step 0: 1.8309
+Seen so far: 100 samples
+Time taken: 12.93s
+
+Start of epo ch 80
+Training loss (for one batch) at step 0: 1.8308
+Seen so far: 100 samples
+Time taken: 13.04s
+
+Start of epo ch 81
+Training loss (for one batch) at step 0: 1.8307
+Seen so far: 100 samples
+Time taken: 11.89s
+
+Start of epo ch 82
+Training loss (for one batch) at step 0: 1.8306
+Seen so far: 100 samples
+Time taken: 11.25s
+
+Start of epo ch 83
+Training loss (for one batch) at step 0: 1.8305
+Seen so far: 100 samples
+Time taken: 11.41s
+
+Start of epo ch 84
+Training loss (for one batch) at step 0: 1.8303
+Seen so far: 100 samples
+Time taken: 11.22s
+
+Start of epo ch 85
+Training loss (for one batch) at step 0: 1.8303
+Seen so far: 100 samples
+Time taken: 11.25s
+
+Start of epo ch 86
+Training loss (for one batch) at step 0: 1.8301
+Seen so far: 100 samples
+Time taken: 11.30s
+
+Start of epo ch 87
+Training loss (for one batch) at step 0: 1.8300
+Seen so far: 100 samples
+Time taken: 11.28s
+
+Start of epo ch 88
+Training loss (for one batch) at step 0: 1.8299
+Seen so far: 100 samples
+Time taken: 11.47s
+
+Start of epo ch 89
+Training loss (for one batch) at step 0: 1.8297
+Seen so far: 100 samples
+Time taken: 11.17s
+
+Start of epo ch 90
+Training loss (for one batch) at step 0: 1.8296
+Seen so far: 100 samples
+Time taken: 11.57s
+
+Start of epo ch 91
+Training loss (for one batch) at step 0: 1.8295
+Seen so far: 100 samples
+Time taken: 11.41s
+
+Start of epo ch 92
+Training loss (for one batch) at step 0: 1.8294
+Seen so far: 100 samples
+Time taken: 11.22s
+
+Start of epo ch 93
+Training loss (for one batch) at step 0: 1.8292
+Seen so far: 100 samples
+Time taken: 11.37s
+
+Start of epo ch 94
+Training loss (for one batch) at step 0: 1.8291
+Seen so far: 100 samples
+Time taken: 11.35s
+
+Start of epo ch 95
+Training loss (for one batch) at step 0: 1.8290
+Seen so far: 100 samples
+Time taken: 11.24s
+
+Start of epo ch 96
+Training loss (for one batch) at step 0: 1.8289
+Seen so far: 100 samples
+Time taken: 11.22s
+
+Start of epo ch 97
+Training loss (for one batch) at step 0: 1.8287
+Seen so far: 100 samples
+Time taken: 11.52s
+
+Start of epo ch 98
+Training loss (for one batch) at step 0: 1.8286
+Seen so far: 100 samples
+Time taken: 11.26s
+
+Start of epo ch 99
+Training loss (for one batch) at step 0: 1.8285
+Seen so far: 100 samples
+Time taken: 11.31s
+
+Start of epo ch 100
+Training loss (for one batch) at step 0: 1.8284
+Seen so far: 100 samples
+Time taken: 11.31s
+
+Start of epo ch 101
+Training loss (for one batch) at step 0: 1.8282
+Seen so far: 100 samples
+Time taken: 11.92s
+
+Start of epo ch 102
+Training loss (for one batch) at step 0: 1.8281
+Seen so far: 100 samples
+Time taken: 11.37s
+
+Start of epo ch 103
+Training loss (for one batch) at step 0: 1.8280
+Seen so far: 100 samples
+Time taken: 11.37s
+
+Start of epo ch 104
+Training loss (for one batch) at step 0: 1.8279
+Seen so far: 100 samples
+Time taken: 10.98s
+
+Start of epo ch 105
+Training loss (for one batch) at step 0: 1.8278
+Seen so far: 100 samples
+Time taken: 10.90s
+
+Start of epo ch 106
+Training loss (for one batch) at step 0: 1.8277
+Seen so far: 100 samples
+Time taken: 10.99s
+
+Start of epo ch 107
+Training loss (for one batch) at step 0: 1.8276
+Seen so far: 100 samples
+Time taken: 10.85s
+
+Start of epo ch 108
+Training loss (for one batch) at step 0: 1.8275
+Seen so far: 100 samples
+Time taken: 10.93s
+
+Start of epo ch 109
+Training loss (for one batch) at step 0: 1.8274
+Seen so far: 100 samples
+Time taken: 11.14s
+
+Start of epo ch 110
+Training loss (for one batch) at step 0: 1.8273
+Seen so far: 100 samples
+Time taken: 11.28s
+
+Start of epo ch 111
+Training loss (for one batch) at step 0: 1.8272
+Seen so far: 100 samples
+Time taken: 12.21s
+
+Start of epo ch 112
+Training loss (for one batch) at step 0: 1.8271
+Seen so far: 100 samples
+Time taken: 11.26s
+
+Start of epo ch 113
+Training loss (for one batch) at step 0: 1.8270
+Seen so far: 100 samples
+Time taken: 11.23s
+
+Start of epo ch 114
+Training loss (for one batch) at step 0: 1.8269
+Seen so far: 100 samples
+Time taken: 11.27s
+
+Start of epo ch 115
+Training loss (for one batch) at step 0: 1.8268
+Seen so far: 100 samples
+Time taken: 11.47s
+
+Start of epo ch 116
+Training loss (for one batch) at step 0: 1.8268
+Seen so far: 100 samples
+Time taken: 11.27s
+
+Start of epo ch 117
+Training loss (for one batch) at step 0: 1.8267
+Seen so far: 100 samples
+Time taken: 11.27s
+
+Start of epo ch 118
+Training loss (for one batch) at step 0: 1.8266
+Seen so far: 100 samples
+Time taken: 11.33s
+
+Start of epo ch 119
+Training loss (for one batch) at step 0: 1.8265
+Seen so far: 100 samples
+Time taken: 12.25s
+
+Start of epo ch 120
+Training loss (for one batch) at step 0: 1.8264
+Seen so far: 100 samples
+Time taken: 11.41s
+
+Start of epo ch 121
+Training loss (for one batch) at step 0: 1.8263
+Seen so far: 100 samples
+Time taken: 11.23s
+
+Start of epo ch 122
+Training loss (for one batch) at step 0: 1.8263
+Seen so far: 100 samples
+Time taken: 11.26s
+
+Start of epo ch 123
+Training loss (for one batch) at step 0: 1.8262
+Seen so far: 100 samples
+Time taken: 11.31s
+
+Start of epo ch 124
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 11.54s
+
+Start of epo ch 125
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 11.14s
+
+Start of epo ch 126
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 11.17s
+
+Start of epo ch 127
+Training loss (for one batch) at step 0: 1.8259
+Seen so far: 100 samples
+Time taken: 11.13s
+
+Start of epo ch 128
+Training loss (for one batch) at step 0: 1.8259
+Seen so far: 100 samples
+Time taken: 11.10s
+
+Start of epo ch 129
+Training loss (for one batch) at step 0: 1.8258
+Seen so far: 100 samples
+Time taken: 11.29s
+
+Start of epo ch 130
+Training loss (for one batch) at step 0: 1.8258
+Seen so far: 100 samples
+Time taken: 11.19s
+
+Start of epo ch 131
+Training loss (for one batch) at step 0: 1.8257
+Seen so far: 100 samples
+Time taken: 11.16s
+
+Start of epo ch 132
+Training loss (for one batch) at step 0: 1.8256
+Seen so far: 100 samples
+Time taken: 11.16s
+
+Start of epo ch 133
+Training loss (for one batch) at step 0: 1.8256
+Seen so far: 100 samples
+Time taken: 11.32s
+
+Start of epo ch 134
+Training loss (for one batch) at step 0: 1.8256
+Seen so far: 100 samples
+Time taken: 12.24s
+
+Start of epo ch 135
+Training loss (for one batch) at step 0: 1.8255
+Seen so far: 100 samples
+Time taken: 11.66s
+
+Start of epo ch 136
+Training loss (for one batch) at step 0: 1.8255
+Seen so far: 100 samples
+Time taken: 11.12s
+
+Start of epo ch 137
+Training loss (for one batch) at step 0: 1.8254
+Seen so far: 100 samples
+Time taken: 12.38s
+
+Start of epo ch 138
+Training loss (for one batch) at step 0: 1.8254
+Seen so far: 100 samples
+Time taken: 11.58s
+
+Start of epo ch 139
+Training loss (for one batch) at step 0: 1.8254
+Seen so far: 100 samples
+Time taken: 12.22s
+
+Start of epo ch 140
+Training loss (for one batch) at step 0: 1.8254
+Seen so far: 100 samples
+Time taken: 12.64s
+
+Start of epo ch 141
+Training loss (for one batch) at step 0: 1.8254
+Seen so far: 100 samples
+Time taken: 12.65s
+
+Start of epo ch 142
+Training loss (for one batch) at step 0: 1.8253
+Seen so far: 100 samples
+Time taken: 12.16s
+
+Start of epo ch 143
+Training loss (for one batch) at step 0: 1.8253
+Seen so far: 100 samples
+Time taken: 10.89s
+
+Start of epo ch 144
+Training loss (for one batch) at step 0: 1.8253
+Seen so far: 100 samples
+Time taken: 11.82s
+
+Start of epo ch 145
+Training loss (for one batch) at step 0: 1.8253
+Seen so far: 100 samples
+Time taken: 12.05s
+
+Start of epo ch 146
+Training loss (for one batch) at step 0: 1.8253
+Seen so far: 100 samples
+Time taken: 11.77s
+
+Start of epo ch 147
+Training loss (for one batch) at step 0: 1.8252
+Seen so far: 100 samples
+Time taken: 13.22s
+
+Start of epo ch 148
+Training loss (for one batch) at step 0: 1.8253
+Seen so far: 100 samples
+Time taken: 12.46s
+
+Start of epo ch 149
+Training loss (for one batch) at step 0: 1.8252
+Seen so far: 100 samples
+Time taken: 11.89s
+
+Start of epo ch 150
+Training loss (for one batch) at step 0: 1.8252
+Seen so far: 100 samples
+Time taken: 11.97s
+
+Start of epo ch 151
+Training loss (for one batch) at step 0: 1.8252
+Seen so far: 100 samples
+Time taken: 11.80s
+
+Start of epo ch 152
+Training loss (for one batch) at step 0: 1.8252
+Seen so far: 100 samples
+Time taken: 10.88s
+
+Start of epo ch 153
+Training loss (for one batch) at step 0: 1.8252
+Seen so far: 100 samples
+Time taken: 11.92s
+
+Start of epo ch 154
+Training loss (for one batch) at step 0: 1.8252
+Seen so far: 100 samples
+Time taken: 11.70s
+
+Start of epo ch 155
+Training loss (for one batch) at step 0: 1.8253
+Seen so far: 100 samples
+Time taken: 11.97s
+
+Start of epo ch 156
+Training loss (for one batch) at step 0: 1.8252
+Seen so far: 100 samples
+Time taken: 11.83s
+
+Start of epo ch 157
+Training loss (for one batch) at step 0: 1.8252
+Seen so far: 100 samples
+Time taken: 11.74s
+
+Start of epo ch 158
+Training loss (for one batch) at step 0: 1.8253
+Seen so far: 100 samples
+Time taken: 12.13s
+
+Start of epo ch 159
+Training loss (for one batch) at step 0: 1.8253
+Seen so far: 100 samples
+Time taken: 10.82s
+
+Start of epo ch 160
+Training loss (for one batch) at step 0: 1.8253
+Seen so far: 100 samples
+Time taken: 11.76s
+
+Start of epo ch 161
+Training loss (for one batch) at step 0: 1.8253
+Seen so far: 100 samples
+Time taken: 12.06s
+
+Start of epo ch 162
+Training loss (for one batch) at step 0: 1.8253
+Seen so far: 100 samples
+Time taken: 11.78s
+
+Start of epo ch 163
+Training loss (for one batch) at step 0: 1.8253
+Seen so far: 100 samples
+Time taken: 11.85s
+
+Start of epo ch 164
+Training loss (for one batch) at step 0: 1.8253
+Seen so far: 100 samples
+Time taken: 11.91s
+
+Start of epo ch 165
+Training loss (for one batch) at step 0: 1.8254
+Seen so far: 100 samples
+Time taken: 11.88s
+
+Start of epo ch 166
+Training loss (for one batch) at step 0: 1.8254
+Seen so far: 100 samples
+Time taken: 10.82s
+
+Start of epo ch 167
+Training loss (for one batch) at step 0: 1.8254
+Seen so far: 100 samples
+Time taken: 11.97s
+
+Start of epo ch 168
+Training loss (for one batch) at step 0: 1.8254
+Seen so far: 100 samples
+Time taken: 11.73s
+
+Start of epo ch 169
+Training loss (for one batch) at step 0: 1.8254
+Seen so far: 100 samples
+Time taken: 12.06s
+
+Start of epo ch 170
+Training loss (for one batch) at step 0: 1.8254
+Seen so far: 100 samples
+Time taken: 11.85s
+
+Start of epo ch 171
+Training loss (for one batch) at step 0: 1.8255
+Seen so far: 100 samples
+Time taken: 11.79s
+
+Start of epo ch 172
+Training loss (for one batch) at step 0: 1.8255
+Seen so far: 100 samples
+Time taken: 12.01s
+
+Start of epo ch 173
+Training loss (for one batch) at step 0: 1.8255
+Seen so far: 100 samples
+Time taken: 11.76s
+
+Start of epo ch 174
+Training loss (for one batch) at step 0: 1.8255
+Seen so far: 100 samples
+Time taken: 11.99s
+
+Start of epo ch 175
+Training loss (for one batch) at step 0: 1.8255
+Seen so far: 100 samples
+Time taken: 11.76s
+
+Start of epo ch 176
+Training loss (for one batch) at step 0: 1.8255
+Seen so far: 100 samples
+Time taken: 11.74s
+
+Start of epo ch 177
+Training loss (for one batch) at step 0: 1.8255
+Seen so far: 100 samples
+Time taken: 11.96s
+
+Start of epo ch 178
+Training loss (for one batch) at step 0: 1.8256
+Seen so far: 100 samples
+Time taken: 10.83s
+
+Start of epo ch 179
+Training loss (for one batch) at step 0: 1.8256
+Seen so far: 100 samples
+Time taken: 11.65s
+
+Start of epo ch 180
+Training loss (for one batch) at step 0: 1.8256
+Seen so far: 100 samples
+Time taken: 11.90s
+
+Start of epo ch 181
+Training loss (for one batch) at step 0: 1.8256
+Seen so far: 100 samples
+Time taken: 11.82s
+
+Start of epo ch 182
+Training loss (for one batch) at step 0: 1.8256
+Seen so far: 100 samples
+Time taken: 11.98s
+
+Start of epo ch 183
+Training loss (for one batch) at step 0: 1.8256
+Seen so far: 100 samples
+Time taken: 11.74s
+
+Start of epo ch 184
+Training loss (for one batch) at step 0: 1.8257
+Seen so far: 100 samples
+Time taken: 11.78s
+
+Start of epo ch 185
+Training loss (for one batch) at step 0: 1.8257
+Seen so far: 100 samples
+Time taken: 11.08s
+
+Start of epo ch 186
+Training loss (for one batch) at step 0: 1.8257
+Seen so far: 100 samples
+Time taken: 11.79s
+
+Start of epo ch 187
+Training loss (for one batch) at step 0: 1.8257
+Seen so far: 100 samples
+Time taken: 11.86s
+
+Start of epo ch 188
+Training loss (for one batch) at step 0: 1.8257
+Seen so far: 100 samples
+Time taken: 12.02s
+
+Start of epo ch 189
+Training loss (for one batch) at step 0: 1.8257
+Seen so far: 100 samples
+Time taken: 11.76s
+
+Start of epo ch 190
+Training loss (for one batch) at step 0: 1.8257
+Seen so far: 100 samples
+Time taken: 11.07s
+
+Start of epo ch 191
+Training loss (for one batch) at step 0: 1.8258
+Seen so far: 100 samples
+Time taken: 11.87s
+
+Start of epo ch 192
+Training loss (for one batch) at step 0: 1.8258
+Seen so far: 100 samples
+Time taken: 10.89s
+
+Start of epo ch 193
+Training loss (for one batch) at step 0: 1.8258
+Seen so far: 100 samples
+Time taken: 11.80s
+
+Start of epo ch 194
+Training loss (for one batch) at step 0: 1.8258
+Seen so far: 100 samples
+Time taken: 12.03s
+
+Start of epo ch 195
+Training loss (for one batch) at step 0: 1.8258
+Seen so far: 100 samples
+Time taken: 12.12s
+
+Start of epo ch 196
+Training loss (for one batch) at step 0: 1.8258
+Seen so far: 100 samples
+Time taken: 12.26s
+
+Start of epo ch 197
+Training loss (for one batch) at step 0: 1.8258
+Seen so far: 100 samples
+Time taken: 10.95s
+
+Start of epo ch 198
+Training loss (for one batch) at step 0: 1.8259
+Seen so far: 100 samples
+Time taken: 11.96s
+
+Start of epo ch 199
+Training loss (for one batch) at step 0: 1.8259
+Seen so far: 100 samples
+Time taken: 10.92s
+
+Start of epo ch 200
+Training loss (for one batch) at step 0: 1.8259
+Seen so far: 100 samples
+Time taken: 11.91s
+
+Start of epo ch 201
+Training loss (for one batch) at step 0: 1.8259
+Seen so far: 100 samples
+Time taken: 11.81s
+
+Start of epo ch 202
+Training loss (for one batch) at step 0: 1.8259
+Seen so far: 100 samples
+Time taken: 12.05s
+
+Start of epo ch 203
+Training loss (for one batch) at step 0: 1.8259
+Seen so far: 100 samples
+Time taken: 11.69s
+
+Start of epo ch 204
+Training loss (for one batch) at step 0: 1.8259
+Seen so far: 100 samples
+Time taken: 10.90s
+
+Start of epo ch 205
+Training loss (for one batch) at step 0: 1.8259
+Seen so far: 100 samples
+Time taken: 11.97s
+
+Start of epo ch 206
+Training loss (for one batch) at step 0: 1.8259
+Seen so far: 100 samples
+Time taken: 10.91s
+
+Start of epo ch 207
+Training loss (for one batch) at step 0: 1.8259
+Seen so far: 100 samples
+Time taken: 11.74s
+
+Start of epo ch 208
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 12.20s
+
+Start of epo ch 209
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 11.66s
+
+Start of epo ch 210
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 11.81s
+
+Start of epo ch 211
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 11.06s
+
+Start of epo ch 212
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 11.69s
+
+Start of epo ch 213
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 10.88s
+
+Start of epo ch 214
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 11.92s
+
+Start of epo ch 215
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 11.82s
+
+Start of epo ch 216
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 11.80s
+
+Start of epo ch 217
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 11.98s
+
+Start of epo ch 218
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 10.83s
+
+Start of epo ch 219
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 13.07s
+
+Start of epo ch 220
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 11.58s
+
+Start of epo ch 221
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 11.85s
+
+Start of epo ch 222
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 11.82s
+
+Start of epo ch 223
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 12.13s
+
+Start of epo ch 224
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 11.81s
+
+Start of epo ch 225
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.81s
+
+Start of epo ch 226
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 11.84s
+
+Start of epo ch 227
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.88s
+
+Start of epo ch 228
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 11.60s
+
+Start of epo ch 229
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 11.03s
+
+Start of epo ch 230
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 11.68s
+
+Start of epo ch 231
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 11.73s
+
+Start of epo ch 232
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 11.18s
+
+Start of epo ch 233
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 11.62s
+
+Start of epo ch 234
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.95s
+
+Start of epo ch 235
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 11.93s
+
+Start of epo ch 236
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.83s
+
+Start of epo ch 237
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.72s
+
+Start of epo ch 238
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.87s
+
+Start of epo ch 239
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.95s
+
+Start of epo ch 240
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 11.68s
+
+Start of epo ch 241
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.88s
+
+Start of epo ch 242
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 11.86s
+
+Start of epo ch 243
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.90s
+
+Start of epo ch 244
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.78s
+
+Start of epo ch 245
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.82s
+
+Start of epo ch 246
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.79s
+
+Start of epo ch 247
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 11.31s
+
+Start of epo ch 248
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.78s
+
+Start of epo ch 249
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.84s
+
+Start of epo ch 250
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.83s
+
+Start of epo ch 251
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 11.00s
+
+Start of epo ch 252
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.74s
+
+Start of epo ch 253
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.81s
+
+Start of epo ch 254
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.74s
+
+Start of epo ch 255
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.73s
+
+Start of epo ch 256
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 11.01s
+
+Start of epo ch 257
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.65s
+
+Start of epo ch 258
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.78s
+
+Start of epo ch 259
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.79s
+
+Start of epo ch 260
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 11.05s
+
+Start of epo ch 261
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.71s
+
+Start of epo ch 262
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.74s
+
+Start of epo ch 263
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.70s
+
+Start of epo ch 264
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.80s
+
+Start of epo ch 265
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 11.08s
+
+Start of epo ch 266
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.74s
+
+Start of epo ch 267
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.77s
+
+Start of epo ch 268
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.84s
+
+Start of epo ch 269
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.77s
+
+Start of epo ch 270
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 11.04s
+
+Start of epo ch 271
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.77s
+
+Start of epo ch 272
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.81s
+
+Start of epo ch 273
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.77s
+
+Start of epo ch 274
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 11.02s
+
+Start of epo ch 275
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.82s
+
+Start of epo ch 276
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.87s
+
+Start of epo ch 277
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 10.82s
+
+Start of epo ch 278
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.91s
+
+Start of epo ch 279
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 11.00s
+
+Start of epo ch 280
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.82s
+
+Start of epo ch 281
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 10.82s
+
+Start of epo ch 282
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 10.83s
+
+Start of epo ch 283
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 11.12s
+
+Start of epo ch 284
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 10.76s
+
+Start of epo ch 285
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 10.83s
+
+Start of epo ch 286
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 10.77s
+
+Start of epo ch 287
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 10.94s
+
+Start of epo ch 288
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 10.97s
+
+Start of epo ch 289
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 10.78s
+
+Start of epo ch 290
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 10.89s
+
+Start of epo ch 291
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 11.91s
+
+Start of epo ch 292
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 11.40s
+
+Start of epo ch 293
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 11.13s
+
+Start of epo ch 294
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 10.81s
+
+Start of epo ch 295
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 11.03s
+
+Start of epo ch 296
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 10.77s
+
+Start of epo ch 297
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 11.20s
+
+Start of epo ch 298
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 11.04s
+
+Start of epo ch 299
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 10.87s
+
+Start of epo ch 300
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 10.86s
+
+Start of epo ch 301
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 11.27s
+
+Start of epo ch 302
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 11.05s
+
+Start of epo ch 303
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 11.24s
+
+Start of epo ch 304
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 11.11s
+
+Start of epo ch 305
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 11.22s
+
+Start of epo ch 306
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 11.29s
+
+Start of epo ch 307
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 11.22s
+
+Start of epo ch 308
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 11.13s
+
+Start of epo ch 309
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 11.23s
+
+Start of epo ch 310
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 11.40s
+
+Start of epo ch 311
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 11.15s
+
+Start of epo ch 312
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 11.18s
+
+Start of epo ch 313
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 11.06s
+
+Start of epo ch 314
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 11.16s
+
+Start of epo ch 315
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 11.32s
+
+Start of epo ch 316
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 11.06s
+
+Start of epo ch 317
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 11.04s
+
+Start of epo ch 318
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 11.99s
+
+Start of epo ch 319
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 14.29s
+
+Start of epo ch 320
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 12.50s
+
+Start of epo ch 321
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 12.78s
+
+Start of epo ch 322
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 11.97s
+
+Start of epo ch 323
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 13.21s
+
+Start of epo ch 324
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 12.50s
+
+Start of epo ch 325
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 12.48s
+
+Start of epo ch 326
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 12.20s
+
+Start of epo ch 327
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 11.31s
+
+Start of epo ch 328
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 11.45s
+
+Start of epo ch 329
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 12.52s
+
+Start of epo ch 330
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.88s
+
+Start of epo ch 331
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.78s
+
+Start of epo ch 332
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.70s
+
+Start of epo ch 333
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.85s
+
+Start of epo ch 334
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.69s
+
+Start of epo ch 335
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.70s
+
+Start of epo ch 336
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.68s
+
+Start of epo ch 337
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.97s
+
+Start of epo ch 338
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.61s
+
+Start of epo ch 339
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 10.68s
+
+Start of epo ch 340
+Training loss (for one batch) at step 0: 1.8262
+Seen so far: 100 samples
+Time taken: 10.75s
+
+Start of epo ch 341
+Training loss (for one batch) at step 0: 1.8262
+Seen so far: 100 samples
+Time taken: 10.67s
+
+Start of epo ch 342
+Training loss (for one batch) at step 0: 1.8262
+Seen so far: 100 samples
+Time taken: 10.84s
+
+Start of epo ch 343
+Training loss (for one batch) at step 0: 1.8262
+Seen so far: 100 samples
+Time taken: 10.66s
+
+Start of epo ch 344
+Training loss (for one batch) at step 0: 1.8262
+Seen so far: 100 samples
+Time taken: 10.65s
+
+Start of epo ch 345
+Training loss (for one batch) at step 0: 1.8262
+Seen so far: 100 samples
+Time taken: 10.66s
+
+Start of epo ch 346
+Training loss (for one batch) at step 0: 1.8262
+Seen so far: 100 samples
+Time taken: 10.98s
+
+Start of epo ch 347
+Training loss (for one batch) at step 0: 1.8262
+Seen so far: 100 samples
+Time taken: 10.64s
+
+Start of epo ch 348
+Training loss (for one batch) at step 0: 1.8262
+Seen so far: 100 samples
+Time taken: 10.67s
+
+Start of epo ch 349
+Training loss (for one batch) at step 0: 1.8262
+Seen so far: 100 samples
+Time taken: 10.68s
+
+Start of epo ch 350
+Training loss (for one batch) at step 0: 1.8262
+Seen so far: 100 samples
+Time taken: 10.68s
+
+Start of epo ch 351
+Training loss (for one batch) at step 0: 1.8262
+Seen so far: 100 samples
+Time taken: 11.39s
+
+Start of epo ch 352
+Training loss (for one batch) at step 0: 1.8262
+Seen so far: 100 samples
+Time taken: 10.73s
+
+Start of epo ch 353
+Training loss (for one batch) at step 0: 1.8262
+Seen so far: 100 samples
+Time taken: 10.65s
+
+Start of epo ch 354
+Training loss (for one batch) at step 0: 1.8262
+Seen so far: 100 samples
+Time taken: 10.65s
+
+Start of epo ch 355
+Training loss (for one batch) at step 0: 1.8262
+Seen so far: 100 samples
+Time taken: 10.95s
+
+Start of epo ch 356
+Training loss (for one batch) at step 0: 1.8262
+Seen so far: 100 samples
+Time taken: 10.69s
+
+Start of epo ch 357
+Training loss (for one batch) at step 0: 1.8263
+Seen so far: 100 samples
+Time taken: 10.72s
+
+Start of epo ch 358
+Training loss (for one batch) at step 0: 1.8263
+Seen so far: 100 samples
+Time taken: 10.63s
+
+Start of epo ch 359
+Training loss (for one batch) at step 0: 1.8263
+Seen so far: 100 samples
+Time taken: 10.74s
+
+Start of epo ch 360
+Training loss (for one batch) at step 0: 1.8263
+Seen so far: 100 samples
+Time taken: 10.82s
+
+Start of epo ch 361
+Training loss (for one batch) at step 0: 1.8263
+Seen so far: 100 samples
+Time taken: 10.64s
+
+Start of epo ch 362
+Training loss (for one batch) at step 0: 1.8263
+Seen so far: 100 samples
+Time taken: 10.71s
+
+Start of epo ch 363
+Training loss (for one batch) at step 0: 1.8263
+Seen so far: 100 samples
+Time taken: 10.68s
+
+Start of epo ch 364
+Training loss (for one batch) at step 0: 1.8263
+Seen so far: 100 samples
+Time taken: 12.06s
+
+Start of epo ch 365
+Training loss (for one batch) at step 0: 1.8263
+Seen so far: 100 samples
+Time taken: 11.18s
+
+Start of epo ch 366
+Training loss (for one batch) at step 0: 1.8263
+Seen so far: 100 samples
+Time taken: 11.03s
+
+Start of epo ch 367
+Training loss (for one batch) at step 0: 1.8263
+Seen so far: 100 samples
+Time taken: 10.90s
+
+Start of epo ch 368
+Training loss (for one batch) at step 0: 1.8263
+Seen so far: 100 samples
+Time taken: 10.81s
+
+Start of epo ch 369
+Training loss (for one batch) at step 0: 1.8263
+Seen so far: 100 samples
+Time taken: 10.98s
+
+Start of epo ch 370
+Training loss (for one batch) at step 0: 1.8263
+Seen so far: 100 samples
+Time taken: 10.90s
+
+Start of epo ch 371
+Training loss (for one batch) at step 0: 1.8263
+Seen so far: 100 samples
+Time taken: 10.84s
+
+Start of epo ch 372
+Training loss (for one batch) at step 0: 1.8263
+Seen so far: 100 samples
+Time taken: 10.92s
+
+Start of epo ch 373
+Training loss (for one batch) at step 0: 1.8263
+Seen so far: 100 samples
+Time taken: 11.15s
+
+Start of epo ch 374
+Training loss (for one batch) at step 0: 1.8264
+Seen so far: 100 samples
+Time taken: 11.04s
+
+Start of epo ch 375
+Training loss (for one batch) at step 0: 1.8263
+Seen so far: 100 samples
+Time taken: 11.00s
+
+Start of epo ch 376
+Training loss (for one batch) at step 0: 1.8264
+Seen so far: 100 samples
+Time taken: 10.88s
+
+Start of epo ch 377
+Training loss (for one batch) at step 0: 1.8264
+Seen so far: 100 samples
+Time taken: 10.93s
+
+Start of epo ch 378
+Training loss (for one batch) at step 0: 1.8264
+Seen so far: 100 samples
+Time taken: 11.09s
+
+Start of epo ch 379
+Training loss (for one batch) at step 0: 1.8264
+Seen so far: 100 samples
+Time taken: 10.82s
+
+Start of epo ch 380
+Training loss (for one batch) at step 0: 1.8264
+Seen so far: 100 samples
+Time taken: 10.81s
+
+Start of epo ch 381
+Training loss (for one batch) at step 0: 1.8264
+Seen so far: 100 samples
+Time taken: 10.85s
+
+Start of epo ch 382
+Training loss (for one batch) at step 0: 1.8264
+Seen so far: 100 samples
+Time taken: 11.10s
+
+Start of epo ch 383
+Training loss (for one batch) at step 0: 1.8264
+Seen so far: 100 samples
+Time taken: 10.89s
+
+Start of epo ch 384
+Training loss (for one batch) at step 0: 1.8264
+Seen so far: 100 samples
+Time taken: 10.83s
+
+Start of epo ch 385
+Training loss (for one batch) at step 0: 1.8264
+Seen so far: 100 samples
+Time taken: 10.83s
+
+Start of epo ch 386
+Training loss (for one batch) at step 0: 1.8264
+Seen so far: 100 samples
+Time taken: 10.95s
+
+Start of epo ch 387
+Training loss (for one batch) at step 0: 1.8264
+Seen so far: 100 samples
+Time taken: 11.04s
+
+Start of epo ch 388
+Training loss (for one batch) at step 0: 1.8264
+Seen so far: 100 samples
+Time taken: 15.11s
+
+Start of epo ch 389
+Training loss (for one batch) at step 0: 1.8264
+Seen so far: 100 samples
+Time taken: 17.05s
+
+Start of epo ch 390
+Training loss (for one batch) at step 0: 1.8264
+Seen so far: 100 samples
+Time taken: 15.95s
+
+Start of epo ch 391
+Training loss (for one batch) at step 0: 1.8264
+Seen so far: 100 samples
+Time taken: 15.40s
+
+Start of epo ch 392
+Training loss (for one batch) at step 0: 1.8264
+Seen so far: 100 samples
+Time taken: 15.18s
+
+Start of epo ch 393
+Training loss (for one batch) at step 0: 1.8264
+Seen so far: 100 samples
+Time taken: 15.10s
+
+Start of epo ch 394
+Training loss (for one batch) at step 0: 1.8264
+Seen so far: 100 samples
+Time taken: 15.16s
+
+Start of epo ch 395
+Training loss (for one batch) at step 0: 1.8264
+Seen so far: 100 samples
+Time taken: 15.07s
+
+Start of epo ch 396
+Training loss (for one batch) at step 0: 1.8264
+Seen so far: 100 samples
+Time taken: 15.29s
+
+Start of epo ch 397
+Training loss (for one batch) at step 0: 1.8264
+Seen so far: 100 samples
+Time taken: 15.17s
+
+Start of epo ch 398
+Training loss (for one batch) at step 0: 1.8264
+Seen so far: 100 samples
+Time taken: 15.14s
+
+Start of epo ch 399
+Training loss (for one batch) at step 0: 1.8264
+Seen so far: 100 samples
+Time taken: 15.39s
+
+Start of epo ch 400
+Training loss (for one batch) at step 0: 1.8264
+Seen so far: 100 samples
+Time taken: 15.27s
+
+Start of epo ch 401
+Training loss (for one batch) at step 0: 1.8264
+Seen so far: 100 samples
+Time taken: 15.34s
+
+Start of epo ch 402
+Training loss (for one batch) at step 0: 1.8264
+Seen so far: 100 samples
+Time taken: 15.18s
+
+Start of epo ch 403
+Training loss (for one batch) at step 0: 1.8264
+Seen so far: 100 samples
+Time taken: 15.09s
+
+Start of epo ch 404
+Training loss (for one batch) at step 0: 1.8264
+Seen so far: 100 samples
+Time taken: 15.20s
+
+Start of epo ch 405
+Training loss (for one batch) at step 0: 1.8264
+Seen so far: 100 samples
+Time taken: 15.40s
+
+Start of epo ch 406
+Training loss (for one batch) at step 0: 1.8264
+Seen so far: 100 samples
+Time taken: 15.16s
+
+Start of epo ch 407
+Training loss (for one batch) at step 0: 1.8264
+Seen so far: 100 samples
+Time taken: 15.24s
+
+Start of epo ch 408
+Training loss (for one batch) at step 0: 1.8264
+Seen so far: 100 samples
+Time taken: 15.20s
+
+Start of epo ch 409
+Training loss (for one batch) at step 0: 1.8264
+Seen so far: 100 samples
+Time taken: 15.51s
+
+Start of epo ch 410
+Training loss (for one batch) at step 0: 1.8264
+Seen so far: 100 samples
+Time taken: 15.23s
+
+Start of epo ch 411
+Training loss (for one batch) at step 0: 1.8264
+Seen so far: 100 samples
+Time taken: 15.39s
+
+Start of epo ch 412
+Training loss (for one batch) at step 0: 1.8264
+Seen so far: 100 samples
+Time taken: 15.39s
+
+Start of epo ch 413
+Training loss (for one batch) at step 0: 1.8263
+Seen so far: 100 samples
+Time taken: 15.23s
+
+Start of epo ch 414
+Training loss (for one batch) at step 0: 1.8263
+Seen so far: 100 samples
+Time taken: 15.49s
+
+Start of epo ch 415
+Training loss (for one batch) at step 0: 1.8263
+Seen so far: 100 samples
+Time taken: 15.29s
+
+Start of epo ch 416
+Training loss (for one batch) at step 0: 1.8263
+Seen so far: 100 samples
+Time taken: 15.35s
+
+Start of epo ch 417
+Training loss (for one batch) at step 0: 1.8263
+Seen so far: 100 samples
+Time taken: 15.21s
+
+Start of epo ch 418
+Training loss (for one batch) at step 0: 1.8263
+Seen so far: 100 samples
+Time taken: 15.40s
+
+Start of epo ch 419
+Training loss (for one batch) at step 0: 1.8263
+Seen so far: 100 samples
+Time taken: 15.26s
+
+Start of epo ch 420
+Training loss (for one batch) at step 0: 1.8263
+Seen so far: 100 samples
+Time taken: 15.41s
+
+Start of epo ch 421
+Training loss (for one batch) at step 0: 1.8263
+Seen so far: 100 samples
+Time taken: 15.41s
+
+Start of epo ch 422
+Training loss (for one batch) at step 0: 1.8263
+Seen so far: 100 samples
+Time taken: 15.29s
+
+Start of epo ch 423
+Training loss (for one batch) at step 0: 1.8263
+Seen so far: 100 samples
+Time taken: 15.48s
+
+Start of epo ch 424
+Training loss (for one batch) at step 0: 1.8263
+Seen so far: 100 samples
+Time taken: 15.46s
+
+Start of epo ch 425
+Training loss (for one batch) at step 0: 1.8263
+Seen so far: 100 samples
+Time taken: 15.30s
+
+Start of epo ch 426
+Training loss (for one batch) at step 0: 1.8263
+Seen so far: 100 samples
+Time taken: 15.35s
+
+Start of epo ch 427
+Training loss (for one batch) at step 0: 1.8263
+Seen so far: 100 samples
+Time taken: 13.15s
+
+Start of epo ch 428
+Training loss (for one batch) at step 0: 1.8263
+Seen so far: 100 samples
+Time taken: 12.24s
+
+Start of epo ch 429
+Training loss (for one batch) at step 0: 1.8263
+Seen so far: 100 samples
+Time taken: 12.24s
+
+Start of epo ch 430
+Training loss (for one batch) at step 0: 1.8263
+Seen so far: 100 samples
+Time taken: 12.16s
+
+Start of epo ch 431
+Training loss (for one batch) at step 0: 1.8262
+Seen so far: 100 samples
+Time taken: 12.31s
+
+Start of epo ch 432
+Training loss (for one batch) at step 0: 1.8262
+Seen so far: 100 samples
+Time taken: 12.46s
+
+Start of epo ch 433
+Training loss (for one batch) at step 0: 1.8262
+Seen so far: 100 samples
+Time taken: 12.26s
+
+Start of epo ch 434
+Training loss (for one batch) at step 0: 1.8262
+Seen so far: 100 samples
+Time taken: 12.30s
+
+Start of epo ch 435
+Training loss (for one batch) at step 0: 1.8262
+Seen so far: 100 samples
+Time taken: 12.27s
+
+Start of epo ch 436
+Training loss (for one batch) at step 0: 1.8262
+Seen so far: 100 samples
+Time taken: 13.62s
+
+Start of epo ch 437
+Training loss (for one batch) at step 0: 1.8262
+Seen so far: 100 samples
+Time taken: 13.20s
+
+Start of epo ch 438
+Training loss (for one batch) at step 0: 1.8262
+Seen so far: 100 samples
+Time taken: 13.02s
+
+Start of epo ch 439
+Training loss (for one batch) at step 0: 1.8262
+Seen so far: 100 samples
+Time taken: 13.00s
+
+Start of epo ch 440
+Training loss (for one batch) at step 0: 1.8262
+Seen so far: 100 samples
+Time taken: 12.82s
+
+Start of epo ch 441
+Training loss (for one batch) at step 0: 1.8262
+Seen so far: 100 samples
+Time taken: 13.44s
+
+Start of epo ch 442
+Training loss (for one batch) at step 0: 1.8262
+Seen so far: 100 samples
+Time taken: 13.24s
+
+Start of epo ch 443
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 13.33s
+
+Start of epo ch 444
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 11.71s
+
+Start of epo ch 445
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 11.99s
+
+Start of epo ch 446
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 12.26s
+
+Start of epo ch 447
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 12.58s
+
+Start of epo ch 448
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 12.64s
+
+Start of epo ch 449
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 12.35s
+
+Start of epo ch 450
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 13.34s
+
+Start of epo ch 451
+Training loss (for one batch) at step 0: 1.8261
+Seen so far: 100 samples
+Time taken: 13.18s
+
+Start of epo ch 452
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 13.16s
+
+Start of epo ch 453
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 13.15s
+
+Start of epo ch 454
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 13.53s
+
+Start of epo ch 455
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 11.74s
+
+Start of epo ch 456
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 12.04s
+
+Start of epo ch 457
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 14.74s
+
+Start of epo ch 458
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 11.74s
+
+Start of epo ch 459
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 12.19s
+
+Start of epo ch 460
+Training loss (for one batch) at step 0: 1.8260
+Seen so far: 100 samples
+Time taken: 12.69s
+
+Start of epo ch 461
+Training loss (for one batch) at step 0: 1.8259
+Seen so far: 100 samples
+Time taken: 13.07s
+
+Start of epo ch 462
+Training loss (for one batch) at step 0: 1.8259
+Seen so far: 100 samples
+Time taken: 12.97s
+
+Start of epo ch 463
+Training loss (for one batch) at step 0: 1.8259
+Seen so far: 100 samples
+Time taken: 13.66s
+
+Start of epo ch 464
+Training loss (for one batch) at step 0: 1.8259
+Seen so far: 100 samples
+Time taken: 13.34s
+
+Start of epo ch 465
+Training loss (for one batch) at step 0: 1.8259
+Seen so far: 100 samples
+Time taken: 13.33s
+
+Start of epo ch 466
+Training loss (for one batch) at step 0: 1.8259
+Seen so far: 100 samples
+Time taken: 13.27s
+
+Start of epo ch 467
+Training loss (for one batch) at step 0: 1.8259
+Seen so far: 100 samples
+Time taken: 12.64s
+
+Start of epo ch 468
+Training loss (for one batch) at step 0: 1.8259
+Seen so far: 100 samples
+Time taken: 11.92s
+
+Start of epo ch 469
+Training loss (for one batch) at step 0: 1.8259
+Seen so far: 100 samples
+Time taken: 11.81s
+
+Start of epo ch 470
+Training loss (for one batch) at step 0: 1.8258
+Seen so far: 100 samples
+Time taken: 12.71s
+
+Start of epo ch 471
+Training loss (for one batch) at step 0: 1.8258
+Seen so far: 100 samples
+Time taken: 12.96s
+
+Start of epo ch 472
+Training loss (for one batch) at step 0: 1.8258
+Seen so far: 100 samples
+Time taken: 13.88s
+
+Start of epo ch 473
+Training loss (for one batch) at step 0: 1.8258
+Seen so far: 100 samples
+Time taken: 13.52s
+
+Start of epo ch 474
+Training loss (for one batch) at step 0: 1.8258
+Seen so far: 100 samples
+Time taken: 13.53s
+
+Start of epo ch 475
+Training loss (for one batch) at step 0: 1.8258
+Seen so far: 100 samples
+Time taken: 13.56s
+
+Start of epo ch 476
+Training loss (for one batch) at step 0: 1.8258
+Seen so far: 100 samples
+Time taken: 13.43s
+
+Start of epo ch 477
+Training loss (for one batch) at step 0: 1.8257
+Seen so far: 100 samples
+Time taken: 12.00s
+
+Start of epo ch 478
+Training loss (for one batch) at step 0: 1.8257
+Seen so far: 100 samples
+Time taken: 11.86s
+
+Start of epo ch 479
+Training loss (for one batch) at step 0: 1.8257
+Seen so far: 100 samples
+Time taken: 13.42s
+
+Start of epo ch 480
+Training loss (for one batch) at step 0: 1.8257
+Seen so far: 100 samples
+Time taken: 13.95s
+
+Start of epo ch 481
+Training loss (for one batch) at step 0: 1.8257
+Seen so far: 100 samples
+Time taken: 11.97s
+
+Start of epo ch 482
+Training loss (for one batch) at step 0: 1.8257
+Seen so far: 100 samples
+Time taken: 12.11s
+
+Start of epo ch 483
+Training loss (for one batch) at step 0: 1.8257
+Seen so far: 100 samples
+Time taken: 50.36s
+
+Start of epo ch 484
+Training loss (for one batch) at step 0: 1.8257
+Seen so far: 100 samples
+Time taken: 34.53s
+
+Start of epo ch 485
+Training loss (for one batch) at step 0: 1.8256
+Seen so far: 100 samples
+Time taken: 30.19s
+
+Start of epo ch 486
+Training loss (for one batch) at step 0: 1.8256
+Seen so far: 100 samples
+Time taken: 36.40s
+
+Start of epo ch 487
+Training loss (for one batch) at step 0: 1.8256
+Seen so far: 100 samples
+Time taken: 36.58s
+
+Start of epo ch 488
+Training loss (for one batch) at step 0: 1.8256
+Seen so far: 100 samples
+Time taken: 34.99s
+
+Start of epo ch 489
+Training loss (for one batch) at step 0: 1.8256
+Seen so far: 100 samples
+Time taken: 32.95s
+
+Start of epo ch 490
+Training loss (for one batch) at step 0: 1.8256
+Seen so far: 100 samples
+Time taken: 34.81s
+
+Start of epo ch 491
+Training loss (for one batch) at step 0: 1.8256
+Seen so far: 100 samples
+Time taken: 32.36s
+
+Start of epo ch 492
+Training loss (for one batch) at step 0: 1.8255
+Seen so far: 100 samples
+Time taken: 31.69s
+
+Start of epo ch 493
+Training loss (for one batch) at step 0: 1.8255
+Seen so far: 100 samples
+Time taken: 31.56s
+
+Start of epo ch 494
+Training loss (for one batch) at step 0: 1.8255
+Seen so far: 100 samples
+Time taken: 32.43s
+
+Start of epo ch 495
+Training loss (for one batch) at step 0: 1.8255
+Seen so far: 100 samples
+Time taken: 32.11s
+
+Start of epo ch 496
+Training loss (for one batch) at step 0: 1.8255
+Seen so far: 100 samples
+Time taken: 32.26s
+
+Start of epo ch 497
+Training loss (for one batch) at step 0: 1.8255
+Seen so far: 100 samples
+Time taken: 31.47s
+
+Start of epo ch 498
+Training loss (for one batch) at step 0: 1.8255
+Seen so far: 100 samples
+Time taken: 31.74s
+
+Start of epo ch 499
+Training loss (for one batch) at step 0: 1.8254
+Seen so far: 100 samples
+Time taken: 34.27s
+
+Start of epo ch 500
+Training loss (for one batch) at step 0: 1.8254
+Seen so far: 100 samples
+Time taken: 25.72s
