@@ -68,7 +68,7 @@ else: # model A
 # use logstd when training on sigma model, use log_std tf variable when training on mean model
 
 @tf.function
-def custom_loss_fn(y_true, y_pred, logstd=None):
+def custom_loss_fn(y_true, y_pred, logstd=None, outlierfrac=outlier_frac):
     y_true = tf.cast(y_true, tf.double)
     y_pred = tf.cast(y_pred, tf.double)
     std = tf.exp(log_std) if logstd == None else tf.exp(logstd)
@@ -82,7 +82,7 @@ def custom_loss_fn(y_true, y_pred, logstd=None):
     loss = 0
     
     # outerlierfrac is set and is constant if it is not None
-    outlier_frac = logistic_transform_fn(logit_outlier_frac) if MODEL_TYPE!="B" else outlier_frac
+    outlierfrac = logistic_transform_fn(logit_outlier_frac) if MODEL_TYPE!="B" else outlier_frac
     
     for i in range(BATCH_SIZE):
         scatter = tf.square((y_true[i] - y_pred[i]) / std)
@@ -91,8 +91,8 @@ def custom_loss_fn(y_true, y_pred, logstd=None):
         # inlier (good) model, averaging over normalPDF values
         L_g = tf.cast(tf.reduce_logsumexp(normalPDF), tf.float64)
         # weight L_g (good) by 1-f_out
-        temp1 = tf.cast(tf.math.log(1. - outlier_frac), tf.float64) + L_g
-        temp2 = tf.cast(tf.math.log(outlier_frac), tf.float64) + L_b
+        temp1 = tf.cast(tf.math.log(1. - outlierfrac), tf.float64) + L_g
+        temp2 = tf.cast(tf.math.log(outlierfrac), tf.float64) + L_b
 
         L_tot = tf.reduce_logsumexp([temp1, temp2])
         loss += L_tot
@@ -136,8 +136,8 @@ def train_step(x_batch_train, y_batch_train, model, optimizer=optimizer, std_val
     grads = tape.gradient(loss_value, model.trainable_weights)
     optimizer.apply_gradients(zip(grads, model.trainable_weights))
     
-    # ignore the rest if model A
-    if (MODEL_TYPE=="A"): return loss_value
+    # ignore the rest if model A or B
+    if (MODEL_TYPE=="A" or MODEL_TYPE=="B"): return loss_value
     
     # if std_vals is given we have spatially variable sigma std_vals
     if std_vals==None:
@@ -149,6 +149,7 @@ def train_step(x_batch_train, y_batch_train, model, optimizer=optimizer, std_val
             loss_value = custom_loss_fn(y_batch_train, logits)  # REVIEW
 
         grads = tape.gradient(loss_value, [log_std])  # REVIEW
+        print(log_std)
         optimizer.apply_gradients(zip(grads, [log_std]))
 
     # variable outlier fraction
@@ -311,8 +312,8 @@ def train_mean_model(model_A=get_model(A_model=True),
                     print("Seen so far: %s samples" %
                           ((step + 1) * BATCH_SIZE), file=f)
 
-                    
-                    if MODEL_TYPE!="A":
+                    # variable std and variable outlier frac predictions 
+                    if MODEL_TYPE!="A" and MODEL_TYPE!="B":
                         outlier_frac = logistic_transform_fn(
                             logit_outlier_frac).numpy()
                         
