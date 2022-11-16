@@ -15,7 +15,7 @@ tf.config.run_functions_eagerly(True)
 
 # flags
 # MODEL_TYPE = "traditional" # set to "min-max" "strictly-positive-weight" are for previous failed attempts
-MODEL_TYPE = "A" # "B", "C", "D"
+MODEL_TYPE = "D" # "B", "C", "D"
 
 data = np.load('datasets/dust_sim_final_new.npz', allow_pickle=True)
 if (MODEL_TYPE!="A"):
@@ -53,6 +53,7 @@ def logistic_transform_fn(n):
     return 1/(1+tf.math.exp(-n))
 
 print(MODEL_TYPE)
+outlier_frac=None
 if (MODEL_TYPE=="B"):
     log_std = tf.constant(np.log(0.2), dtype=tf.float64)
     outlier_frac = tf.constant(0.05, dtype=tf.float64)
@@ -149,7 +150,6 @@ def train_step(x_batch_train, y_batch_train, model, optimizer=optimizer, std_val
             loss_value = custom_loss_fn(y_batch_train, logits)  # REVIEW
 
         grads = tape.gradient(loss_value, [log_std])  # REVIEW
-        print(log_std)
         optimizer.apply_gradients(zip(grads, [log_std]))
 
     # variable outlier fraction
@@ -158,7 +158,8 @@ def train_step(x_batch_train, y_batch_train, model, optimizer=optimizer, std_val
             x_batch_train, [BATCH_SIZE * SAMPLE_SIZE, 3])
         logits = model(x_batch_train, training=True)
         logits = tf.reshape(logits, [BATCH_SIZE, SAMPLE_SIZE])
-        loss_value = custom_loss_fn(y_batch_train, logits)  # REVIEW
+        loss_value = custom_loss_fn(y_batch_train, logits) if std_vals==None \
+            else custom_loss_fn(y_batch_train, logits, std_vals)
 
     grads = tape.gradient(loss_value, [logit_outlier_frac])  # REVIEW
     optimizer.apply_gradients(zip(grads, [logit_outlier_frac]))
@@ -362,7 +363,7 @@ def train_step_for_std_model(model_A, model_std, x_batch_train, y_batch_train, c
             x_batch_train, y_batch_train_for_std, axis=1)  # (1000, 4)
 
         # [BATCH_SIZE * SAMPLE_SIZE, 1]
-        logits_std = model_std(x_batch_train_for_std, training=True)
+        # logits_std = model_std(x_batch_train_for_std, training=True)
         logits_std = get_std_model_pred(model_std,
                                         x_batch_train_for_std,
                                         constant_log_std,
