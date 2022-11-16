@@ -15,7 +15,7 @@ tf.config.run_functions_eagerly(True)
 
 # flags
 # MODEL_TYPE = "traditional" # set to "min-max" "strictly-positive-weight" are for previous failed attempts
-MODEL_TYPE = "D" # "B", "C", "D"
+MODEL_TYPE = "D" # "A", "B", "C", "D"
 
 data = np.load('datasets/dust_sim_final_new.npz', allow_pickle=True)
 if (MODEL_TYPE!="A"):
