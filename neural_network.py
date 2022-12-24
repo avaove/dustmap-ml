@@ -466,13 +466,15 @@ def train_sigma_model(model_A, constant_log_std, model_std=get_model(std_model=T
         # save model if better than best model
         if (len(val_loss_std) >= 2 and val_loss_std_val < val_loss_std[-1]):
             model_std.save('modelstd_best')
-        # save most recent model
-        model_std.save('modelstd_recent')
-
-        # doing the same for mean model after retraining
-        if (len(val_loss_std) >= 2 and val_loss_std_val < val_loss_std[-1]):
             model_A.save('modelA_best')
-        model_A.save('modelA_recent')
+        # save most recent model
+        # model_std.save('modelstd_recent')        
+        # model_A.save('modelA_recent')
+        
+        # every 10 epochs save model
+        if (epoch_i % 10 == 0):
+            model_A.save('epoch_' + str(epoch_i) + '_model_mean')
+            model_std.save('epoch_' + str(epoch_i) + '_model_std')
         # IDEA saving model <<<
         
         train_loss_A.append(train_loss_A_val)
